@@ -8,10 +8,6 @@ Senior Backend Engineer based in Yogyakarta, Indonesia. I've spent 7+ years buil
 - Frontend: React, Next.js, Vue, Tailwind CSS
 - Database: MySQL, PostgreSQL, MongoDB
 
-### Learning
-
-Go and Rust
-
 ### Links
 
 - [Portfolio](https://rizkik.me)
